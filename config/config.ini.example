@@ -1,0 +1,10 @@
+[all]
+doi_prefix=10.1xxxx
+doi_username=example_username
+doi_password=example_password
+
+default_publisher_name=University of xxx
+
+# Search on https://ror.org/. ID is the last part of the URL (eg. https://ror.org/xxxxxxxxx)
+hosting_institution_contributor_name=University of xxx
+hosting_institution_ror_id=xxxxxxxxx

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "_index": "cdm.arphotos-2024-02-06",
+    "_id": "1.0018807",
+    "_version": 1,
+    "_seq_no": 8,
+    "_primary_term": 1,
+    "found": true,
+    "_source": {
+      "aggregatedSourceRepository": "CONTENTdm",
+      "collection": [
+        "UBC Archives Photograph Collection"
+      ],
+      "creator": [
+        "Canadian Photo Co."
+      ],
+      "dateAvailable": "2003-04-30T00:00:00Z",
+      "dateCreated": [
+        "1923-01-01"
+      ],
+      "digitalResourceOriginalRecord": "https://open.library.ubc.ca/collections/arphotos/items/1.0018807/source.json",
+      "doi": "10.14288/1.0018807",
+      "extent": [
+        "30 x 23 cm"
+      ],
+      "fileFormat": [
+        "image/jpeg"
+      ],
+      "genre": [
+        "Photographs"
+      ],
+      "id": "1.0018807",
+      "identifier": [
+        "UBC 1.1/353"
+      ],
+      "isShownAt": "10.14288/1.0018807",
+      "metadata": {
+        "AggregatedSourceRepository": [
+          {
+            "label": "AggregatedSourceRepository",
+            "value": "CONTENTdm",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://www.europeana.eu/schemas/edm/dataProvider",
+              "classmap": "ore:Aggregation",
+              "property": "edm:dataProvider"
+            },
+            "iri": "http://www.europeana.eu/schemas/edm/dataProvider",
+            "explain": "A Europeana Data Model Property; The name or identifier of the organization who contributes data indirectly to an aggregation service (e.g. Europeana)"
+          }
+        ],
+        "Collection": [
+          {
+            "label": "Collection",
+            "value": "UBC Archives Photograph Collection",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/isPartOf",
+              "classmap": "dpla:SourceResource",
+              "property": "dcterms:isPartOf"
+            },
+            "iri": "http://purl.org/dc/terms/isPartOf",
+            "explain": "A Dublin Core Terms Property; A related resource in which the described resource is physically or logically included."
+          }
+        ],
+        "Creator": [
+          {
+            "label": "Creator",
+            "value": "Canadian Photo Co.",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/creator",
+              "classmap": "dpla:SourceResource",
+              "property": "dcterms:creator"
+            },
+            "iri": "http://purl.org/dc/terms/creator",
+            "explain": "A Dublin Core Terms Property; An entity primarily responsible for making the resource.; Examples of a Contributor include a person, an organization, or a service."
+          }
+        ],
+        "DateAvailable": [
+          {
+            "label": "DateAvailable",
+            "value": "2003-04-30",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/issued",
+              "classmap": "edm:WebResource",
+              "property": "dcterms:issued"
+            },
+            "iri": "http://purl.org/dc/terms/issued",
+            "explain": "A Dublin Core Terms Property; Date of formal issuance (e.g., publication) of the resource."
+          }
+        ],
+        "DateCreated": [
+          {
+            "label": "DateCreated",
+            "value": "1923-01-01",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/created",
+              "classmap": "oc:SourceResource",
+              "property": "dcterms:created"
+            },
+            "iri": "http://purl.org/dc/terms/created",
+            "explain": "A Dublin Core Terms Property; Date of creation of the resource."
+          }
+        ],
+        "DigitalResourceOriginalRecord": [
+          {
+            "label": "DigitalResourceOriginalRecord",
+            "value": "https://open.library.ubc.ca/collections/arphotos/items/1.0018807/source.json",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://www.europeana.eu/schemas/edm/aggregatedCHO",
+              "classmap": "ore:Aggregation",
+              "property": "edm:aggregatedCHO"
+            },
+            "iri": "http://www.europeana.eu/schemas/edm/aggregatedCHO",
+            "explain": "A Europeana Data Model Property; The identifier of the source object, e.g. the Mona Lisa itself. This could be a full linked open date URI or an internal identifier"
+          }
+        ],
+        "Extent": [
+          {
+            "label": "Extent",
+            "value": "30 x 23 cm",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/extent",
+              "classmap": "dpla:SourceResource",
+              "property": "dcterms:extent"
+            },
+            "iri": "http://purl.org/dc/terms/extent",
+            "explain": "A Dublin Core Terms Property; The size or duration of the resource."
+          }
+        ],
+        "FileFormat": [
+          {
+            "label": "FileFormat",
+            "value": "image/jpeg",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/elements/1.1/format",
+              "classmap": "edm:WebResource",
+              "property": "dc:format"
+            },
+            "iri": "http://purl.org/dc/elements/1.1/format",
+            "explain": "A Dublin Core Elements Property; The file format, physical medium, or dimensions of the resource.; Examples of dimensions include size and duration. Recommended best practice is to use a controlled vocabulary such as the list of Internet Media Types [MIME]."
+          }
+        ],
+        "FullText": [
+          {
+            "label": "FullText",
+            "value": "",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://www.w3.org/2009/08/skos-reference/skos.html#note",
+              "classmap": "oc:AnnotationContainer"
+            },
+            "iri": "http://www.w3.org/2009/08/skos-reference/skos.html#note",
+            "explain": "Simple Knowledge Organisation System; Notes are used to provide information relating to SKOS concepts. There is no restriction on the nature of this information, e.g., it could be plain text, hypertext, or an image; it could be a definition, information about the scope of a concept, editorial information, or any other type of information."
+          }
+        ],
+        "Genre": [
+          {
+            "label": "Genre",
+            "value": "Photographs",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://www.europeana.eu/schemas/edm/hasType",
+              "classmap": "dpla:SourceResource",
+              "property": "edm:hasType"
+            },
+            "iri": "http://www.europeana.eu/schemas/edm/hasType",
+            "explain": "A Europeana Data Model Property; This property relates a resource with the concepts it belongs to in a suitable type system such as MIME or any thesaurus that captures categories of objects in a given field. It does NOT capture aboutness"
+          }
+        ],
+        "Identifier": [
+          {
+            "label": "Identifier",
+            "value": "UBC 1.1/353",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/identifier",
+              "classmap": "dpla:SourceResource",
+              "property": "dcterms:identifier"
+            },
+            "iri": "http://purl.org/dc/terms/identifier",
+            "explain": "A Dublin Core Terms Property; An unambiguous reference to the resource within a given context.; Recommended best practice is to identify the resource by means of a string conforming to a formal identification system."
+          }
+        ],
+        "IsShownAt": [
+          {
+            "label": "IsShownAt",
+            "value": "10.14288/1.0018807",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://www.europeana.eu/schemas/edm/isShownAt",
+              "classmap": "edm:WebResource",
+              "property": "edm:isShownAt"
+            },
+            "iri": "http://www.europeana.eu/schemas/edm/isShownAt",
+            "explain": "A Europeana Data Model Property; An unambiguous URL reference to the digital object on the provider’s website in its full information context."
+          }
+        ],
+        "Notes": [
+          {
+            "label": "Notes",
+            "value": "Print;Small negative;Oversize_1",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://www.w3.org/2009/08/skos-reference/skos.html#note",
+              "classmap": "skos:Concept",
+              "property": "skos:note"
+            },
+            "iri": "http://www.w3.org/2009/08/skos-reference/skos.html#note",
+            "explain": "Simple Knowledge Organisation System; Notes are used to provide information relating to SKOS concepts. There is no restriction on the nature of this information, e.g., it could be plain text, hypertext, or an image; it could be a definition, information about the scope of a concept, editorial information, or any other type of information."
+          }
+        ],
+        "Provider": [
+          {
+            "label": "Provider",
+            "value": "Vancouver : University of British Columbia Library",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://www.europeana.eu/schemas/edm/provider",
+              "classmap": "ore:Aggregation",
+              "property": "edm:provider"
+            },
+            "iri": "http://www.europeana.eu/schemas/edm/provider",
+            "explain": "A Europeana Data Model Property; The name or identifier of the organization who delivers data directly to an aggregation service (e.g. Europeana)"
+          }
+        ],
+        "Rights": [
+          {
+            "label": "Rights",
+            "value": "Images provided for research and reference use only. Permission to publish, copy or otherwise use these images must be obtained from the UBC Archives: https://archives.library.ubc.ca/contact-us/",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/rights",
+              "classmap": "edm:WebResource",
+              "property": "dcterms:rights"
+            },
+            "iri": "http://purl.org/dc/terms/rights",
+            "explain": "A Dublin Core Terms Property; Information about rights held in and over the resource.; Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights."
+          }
+        ],
+        "SortDate": [
+          {
+            "label": "SortDate",
+            "value": "1923-01-01 AD",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/elements/1.1/date",
+              "classmap": "dpla:SourceResource"
+            },
+            "iri": "http://purl.org/dc/elements/1.1/date",
+            "explain": "A Dublin Core Elements Property; A point or period of time associated with an event in the lifecycle of the resource.; Date may be used to express temporal information at any level of granularity. Recommended best practice is to use an encoding scheme, such as the W3CDTF profile of ISO 8601 [W3CDTF]."
+          },
+          {
+            "label": "Sort Date",
+            "value": "1923-01-01 AD",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/date",
+              "classmap": "oc:InternalResource",
+              "property": "dcterms:date"
+            },
+            "iri": "http://purl.org/dc/terms/date",
+            "explain": "A Dublin Core Elements Property; A point or period of time associated with an event in the lifecycle of the resource.; Date may be used to express temporal information at any level of granularity. Recommended best practice is to use an encoding scheme, such as the W3CDTF profile of ISO 8601 [W3CDTF].; A point or period of time associated with an event in the lifecycle of the resource.; Date may be used to express temporal information at any level of granularity. Recommended best practice is to use an encoding scheme, such as the W3CDTF profile of ISO 8601 [W3CDTF]."
+          }
+        ],
+        "Source": [
+          {
+            "label": "Source",
+            "value": "Original Format: University of British Columbia. Archives",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/source",
+              "classmap": "oc:SourceResource",
+              "property": "dcterms:source"
+            },
+            "iri": "http://purl.org/dc/terms/source",
+            "explain": "A Dublin Core Terms Property; A related resource from which the described resource is derived.; The described resource may be derived from the related resource in whole or in part. Recommended best practice is to identify the related resource by means of a string conforming to a formal identification system."
+          }
+        ],
+        "Subject": [
+          {
+            "label": "Subject",
+            "value": "Science building - Cornerstone ceremony",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/subject",
+              "classmap": "dpla:SourceResource",
+              "property": "dcterms:subject"
+            },
+            "iri": "http://purl.org/dc/terms/subject",
+            "explain": "A Dublin Core Terms Property; The topic of the resource.; Typically, the subject will be represented using keywords, key phrases, or classification codes. Recommended best practice is to use a controlled vocabulary."
+          }
+        ],
+        "Title": [
+          {
+            "label": "Title",
+            "value": "Science building cornerstone ceremony",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/title",
+              "classmap": "dpla:SourceResource",
+              "property": "dcterms:title"
+            },
+            "iri": "http://purl.org/dc/terms/title",
+            "explain": "A Dublin Core Terms Property; The name given to the resource."
+          }
+        ],
+        "Type": [
+          {
+            "label": "Type",
+            "value": "Still Image",
+            "attrs": {
+              "lang": "en",
+              "ns": "http://purl.org/dc/terms/type",
+              "classmap": "dpla:SourceResource",
+              "property": "dcterms:type"
+            },
+            "iri": "http://purl.org/dc/terms/type",
+            "explain": "A Dublin Core Terms Property; The nature or genre of the resource.; Recommended best practice is to use a controlled vocabulary such as the DCMI Type Vocabulary [DCMITYPE]. To describe the file format, physical medium, or dimensions of the resource, use the Format element."
+          }
+        ],
+        "Translation": [
+          {
+            "property": "Translation",
+            "language": "en",
+            "label": "Translation",
+            "value": ""
+          }
+        ]
+      },
+      "notes": [
+        "Print;Small negative;Oversize_1"
+      ],
+      "provider": [
+        "Vancouver : University of British Columbia Library"
+      ],
+      "rights": [
+        "Images provided for research and reference use only. Permission to publish, copy or otherwise use these images must be obtained from the UBC Archives: https://archives.library.ubc.ca/contact-us/"
+      ],
+      "sortDate": "1923-01-01 AD",
+      "source": [
+        "Original Format: University of British Columbia. Archives"
+      ],
+      "subject": [
+        "Science building - Cornerstone ceremony"
+      ],
+      "title": [
+        "Science building cornerstone ceremony"
+      ],
+      "type": [
+        "Still Image"
+      ],
+      "ubc_date_sort": "1923-01-01 AD",
+      "ubc_image_filename": "/data02/collections6/arphotos/image/17.jpg",
+      "ubc_image_height": "557",
+      "ubc_image_title": "Science building cornerstone ceremony",
+      "ubc_image_type": "jpg",
+      "ubc_image_width": "711",
+      "ubc_internal_cdm_find": "17.jpg",
+      "ubc_internal_cdm_hasPDF": false,
+      "ubc_internal_child_records": [],
+      "ubc_internal_display_date": "1923-01-01",
+      "ubc_internal_downloads": [],
+      "ubc_internal_handle": "cdm.arphotos.16",
+      "ubc_internal_hasTranscript": false,
+      "ubc_internal_item_last_ingested": "2024-02-06 02:30:57",
+      "ubc_internal_provenance_nick": "arphotos",
+      "ubc_internal_repo": "cdm",
+      "ubc_internal_repo_handle": "16",
+      "ubc_internal_schema_org": "Photograph",
+      "ubc_repo_label": "Digitized Collections",
+      "ubc_transcript": "",
+      "ubc_translation": "",
+      "ubc_internal_processed_title": "Science building cornerstone ceremony",
+      "ubc_internal_hasTranslation": false
+    }
+  }
+}

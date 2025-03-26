@@ -1,0 +1,2 @@
+doi=10.14288/1.0018807
+url=https://doi.library.ubc.ca/10.14288/1.0018807

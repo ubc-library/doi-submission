@@ -33,7 +33,7 @@ importlib.reload(sys)
 
 datacite_api = "https://mds.datacite.org"
 
-base_resolve_url = '<<this variable is used in the submit function, but implement your own logic for resolving DOIs back to your system>>'
+base_resolve_url = '<<this variable is used in the submit function, but implement your own logic for constructing the URL that the DOI will resolve to>>'
 list_path = "./output/list-%s.list" %date.today()
 language_codes = {}
 

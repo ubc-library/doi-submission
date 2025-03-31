@@ -4,7 +4,8 @@ This script submits Digital Object Identifiers (DOIs) and their associated metad
 
 ## Getting Started
 
-Copy `config/config.ini.example` to `config/config.ini` and fill out the environment variables.
+1. Copy `config/config.ini.example` to `config/config.ini` and fill out the environment variables.
+2. In `update_minted_public.py`, implement your own logic to construct the URL that the submitted DOI should resolve to. Currently, the script uses the `base_resolve_url` variable to construct this URL.
 
 ## Usage
 ```
